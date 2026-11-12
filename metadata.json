@@ -1,0 +1,6 @@
+{
+  "name": "PALMKVIST ARCHIVE — Cinematic Horizontal Image Gallery",
+  "description": "An immersive editorial horizontal image scrolling gallery inspired by Nicolai Palmkvist, featuring curated architectural photography and GSAP ScrollTrigger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
